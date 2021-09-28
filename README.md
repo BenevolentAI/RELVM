@@ -1,6 +1,6 @@
 # RELVM
 
-This repository contains the code accompanying the paper *"Learning Informative Representations of Biomedical Relations with Latent Variable Models", Harshil Shah and Julien Fauqueur, EMNLP SustaiNLP 2020*.
+This repository contains the code accompanying the paper *"Learning Informative Representations of Biomedical Relations with Latent Variable Models", Harshil Shah and Julien Fauqueur, EMNLP SustaiNLP 2020*, (https://arxiv.org/abs/2011.10285).
 
 ## Requirements
 
